@@ -22,16 +22,16 @@ const receptionEnd = new Date("2026-05-28T21:30:00+05:30");
 
 const events = {
   ceremony: {
-    title: "Wedding Ceremony - Ananthu & Anagha",
-    description: "Join us for the wedding ceremony of Ananthu and Anagha. Muhurtham: 11:56 am - 12:46 pm",
+    title: "Wedding Ceremony - Anagha & Ananthu",
+    description: "Join us for the wedding ceremony of Anagha & Ananthu. Muhurtham: 11:56 am - 12:46 pm",
     location: "Qatar Auditorium, Thirunavaya, Malappuram",
     start: ceremonyStart,
     end: ceremonyEnd,
     file: "wedding-ceremony.ics"
   },
   reception: {
-    title: "Bride Groom Reception - Ananthu & Anagha",
-    description: "Join us for the bride groom reception of Ananthu and Anagha.",
+    title: "Bride Groom Reception - Anagha & Ananthu",
+    description: "Join us for the bride groom reception of Anagha & Ananthu.",
     location: "Comet Hall, Al-Saj, Kazhakkoottam, Thiruvananthapuram",
     start: receptionStart,
     end: receptionEnd,
